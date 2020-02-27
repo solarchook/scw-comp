@@ -5,6 +5,7 @@
 
 | Name | Single |
 | -- | :--: |
+| [David Roche](../persons/david_roche.md) | 27 |
 | [John Cook](../persons/john_cook.md) | 55 |
 
 #### Over 40
@@ -12,7 +13,6 @@
 | Name | Single |
 | -- | :--: |
 | [Ben Coppin](../persons/ben_coppin.md) | 26 |
-| [David Roche](../persons/david_roche.md) | 27 |
 | [Grzegorz Pacewicz](../persons/grzegorz_pacewicz.md) | 25 |
 
 #### Under 40
